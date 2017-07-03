@@ -1,0 +1,32 @@
+<resources>
+    <!-- Name for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">TheGuardianNewsApp</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Text to display in the list when there are no articles [CHAR LIMIT=NONE] -->
+    <string name="no_articles">No articles found.</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">The Guardian Settings</string>
+    <string name="settings_section_key">settings_section_key</string>
+    <string name="settings_section_summary">Select the type of articles that you want to see.</string>
+    <string name="settings_section_label">Sections</string>
+    <string name="settings_section_enabled_key">settings_section_enabled_key</string>
+    <string name="settings_sections_default" translatable="false">Politics</string>
+
+    <!-- Label for section_technology option [CHAR LIMIT=20] -->
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+
+    <!-- Label for section_politics option [CHAR LIMIT=20] -->
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_politics_value" translatable="false">politics</string>
+
+    <!-- Label for section_society option [CHAR LIMIT=20] -->
+    <string name="settings_section_society_label">Society</string>
+    <string name="settings_section_society_value">society</string>
+</resources>
